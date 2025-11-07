@@ -1,0 +1,11 @@
+[configuration]
+entry_symbol = "native_bridge_library_init"
+compatibility_minimum = "4.5"
+
+[libraries]
+macos.debug = "res://addons/native_bridge/bin/libnative_bridge_macos.dylib"
+macos.release = "res://addons/native_bridge/bin/libnative_bridge_macos.dylib"
+windows.debug.x86_64 = "res://addons/native_bridge/bin/native_bridge_windows.dll"
+windows.release.x86_64 = "res://addons/native_bridge/bin/native_bridge_windows.dll"
+linux.debug.x86_64 = "res://addons/native_bridge/bin/libnative_bridge_linux.so"
+linux.release.x86_64 = "res://addons/native_bridge/bin/libnative_bridge_linux.so"
