@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://github.com/godot-x/native-bridge" target="_blank" rel="noopener noreferrer">
-        <img width="250" src="extras/images/icon.png" alt="Native Bridge - Logo">
+        <img width="150" src="extras/images/icon.png" alt="Native Bridge - Logo">
     </a>
 </p>
 
